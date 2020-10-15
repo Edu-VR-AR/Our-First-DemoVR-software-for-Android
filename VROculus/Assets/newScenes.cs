@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class newScenes : MonoBehaviour
 {
+    public int scene;
     float speed = 60.0f;
     bool spin = false;
 
@@ -20,7 +21,7 @@ public class newScenes : MonoBehaviour
 
         if (spin)
         {
-            SceneManager.LoadScene("Elcase");
+            SceneManager.LoadScene(scene);
             }
     }
 

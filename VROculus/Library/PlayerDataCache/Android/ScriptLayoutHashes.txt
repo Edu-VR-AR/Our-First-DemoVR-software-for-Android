@@ -2,7 +2,11 @@ Android
 PlayerPath?
 D:/ar/VR/VrOcul.apk
 SceneListBegin?
-Assets/GazeScene.unity
+Assets/GazeCanvasScene.unity
+Assets/ElCase.unity
+Assets/demo2.unity
+Assets/demo3.unity
+Assets/Schulz.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.OVRDiscomfortWarning
@@ -60,8 +64,6 @@ abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.Tou
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 b3bb7c40cede9849e7814d6093dcfcea Assembly-CSharp.dll:.OVRRaycaster
 d3c76b14a25eebd3a3323dd43297919c Unity.TextMeshPro.dll:TMPro.TMP_InputField
-71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
-71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 cf9f5cf2c3145a37ac07f00e50e460f9 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -213,7 +215,7 @@ a4b88f3b08f1f148e04c6c3d7544c9ec Assembly-CSharp.dll:.OVRMonoscopic
 a9ccd216c09f11029e03a0ea3bb16c16 Assembly-CSharp.dll:.OVRInspectorLoader
 9fce3d3ad5943924497902d7085db4c5 Assembly-CSharp.dll:.OVRCubemapCapture
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.newScenes
+7b389f0e510d9215bc4ca0d61ba7fb16 Assembly-CSharp.dll:.newScenes
 9edf0788742c31d8eaaf32cf4feac747 Assembly-CSharp.dll:.OVRModeParms
 b5d01a44c9a694c6b9bce4626dd0a12e Assembly-CSharp.dll:.OVRGearVrControllerTest
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -330,3 +332,4 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+f38d1c515c6c43524ad61c995b265cb8 Assembly-CSharp.dll:.Accelerator

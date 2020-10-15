@@ -23,8 +23,8 @@ public class GazeCloo : MonoBehaviour
         if (spin)
         {
             //SceneManager.LoadScene("Elcase");
-            menu1.SetActive(!menu1.activeSelf);
-            menu2.SetActive(!menu2.activeSelf);
+            menu1.SetActive(false);
+            menu2.SetActive(true);
             //transform.Rotate(Vector3.up, speed * Time.deltaTime);
         }
     }
