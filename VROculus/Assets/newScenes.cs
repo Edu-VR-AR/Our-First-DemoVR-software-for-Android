@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class newScenes : MonoBehaviour
 {
     public int scene;
-    float speed = 60.0f;
+   // float speed = 60.0f;
     bool spin = false;
 
     // Use this for initialization

@@ -60,6 +60,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GoogleVR\Demos\Editor\DemoInputManagerEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Demos\Editor\PermissionsDemoBuildProcessor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\Controller\GvrControllerVisualEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\Controller\GvrLaserPointerEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\Controller\GvrLaserVisualEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\Controller\GvrTooltipEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\EventSystem\GvrPointerScrollInputEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\GvrBuildProcessor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\GvrEditorEmulatorEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\GvrEditorMenu.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\GvrEditorSettings.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\GvrHeadsetEditor.cs" />
+    <Compile Include="Assets\GoogleVR\Editor\InstantPreviewEditor.cs" />
     <Compile Include="Assets\Oculus\VR\Editor\OVRBuild.cs" />
     <Compile Include="Assets\Oculus\VR\Editor\OVREngineConfigurationUpdater.cs" />
     <Compile Include="Assets\Oculus\VR\Editor\OVRLayerAttributeEditor.cs" />
@@ -333,6 +346,9 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>D:/ar/MediapipeUnityPlugin-master/Assets/Mediapipe/Examples/VROculus/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>D:/ar/MediapipeUnityPlugin-master/Assets/Mediapipe/Examples/VROculus/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>

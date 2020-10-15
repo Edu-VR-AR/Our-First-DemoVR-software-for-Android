@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Schulz.unity
+- path: Assets/GazeCanvasScene.unity
   isLoaded: 1
   isActive: 1
